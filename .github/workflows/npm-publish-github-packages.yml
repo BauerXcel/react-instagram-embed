@@ -7,7 +7,6 @@ on:
   push:
     branches:
       - master
-      - SRE-1976-fix-build
 
 jobs:
   publish-gpr:
